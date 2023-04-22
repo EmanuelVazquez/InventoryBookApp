@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316140500793",
+    "project_id": "ibdatabase-57530",
+    "storage_bucket": "ibdatabase-57530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316140500793:android:e236abb844ec880a165ae8",
+        "android_client_info": {
+          "package_name": "com.example.inventarybook11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316140500793-n3blfv6bnq2c3qum7r0p25f7o5v9fr0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1d-ZTAGoNMY7sE__-y1NGnWzm_0B6T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316140500793-n3blfv6bnq2c3qum7r0p25f7o5v9fr0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
