@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InventaryBook1.1</string>
+    <string name="Email">InventaryBook1.1.</string>
+    <string name="Contraseña">InventaryBook1.1.</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="apellidos">Apellidos</string>
+</resources>
