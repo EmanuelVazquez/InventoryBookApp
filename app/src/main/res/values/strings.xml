@@ -4,4 +4,8 @@
     <string name="Contraseña">InventaryBook1.1.</string>
     <string name="cancelar">Cancelar</string>
     <string name="apellidos">Apellidos</string>
+    <string name="todo">TODO</string>
+    <string name="generador_qr">Generador QR</string>
+    <string name="Todo">TODO</string>
+    <string name="guardar">GUARDAR</string>
 </resources>
