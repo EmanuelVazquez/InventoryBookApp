@@ -17,35 +17,15 @@
         android:layout_height="wrap_content"
         android:text="COMPUTADORAS" />
 
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/grupo_7" />
-
-    <ImageView
-        android:id="@+id/imageView15"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/grupo_7" />
-
-    <ImageView
-        android:id="@+id/imageView17"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/grupo_7"
-        android:contentDescription="@string/todo6" />
-
-    <ImageView
-        android:id="@+id/imageView18"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/grupo_7"
-        android:contentDescription="@string/todo5" />
-
     <ImageButton
         android:id="@+id/imageButton12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/grupo_8" />
+
+    <ImageButton
+        android:id="@+id/imageButton11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/grupo_9" />
 </LinearLayout>
