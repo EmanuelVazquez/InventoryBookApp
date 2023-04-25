@@ -4,4 +4,10 @@
     <string name="Contraseña">InventaryBook1.1.</string>
     <string name="cancelar">Cancelar</string>
     <string name="apellidos">Apellidos</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="inventario">INVENTARIO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
 </resources>
